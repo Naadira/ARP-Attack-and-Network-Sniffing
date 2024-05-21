@@ -26,6 +26,7 @@ In windows 7 give the command arp -a
 ## OUTPUT:
 From kali linux issue the command : sudo arpspoof -i eth0 -t
 ![image](https://github.com/Naadira/ARP-Attack-and-Network-Sniffing/assets/128135126/bb8d0f94-1b41-4dd3-bc56-30a3eb2067e8)
+
 From Kali linux issue the command : sudo arpspoof -i etho -t
 ![image](https://github.com/Naadira/ARP-Attack-and-Network-Sniffing/assets/128135126/68f1a3c1-f3f1-4452-84bf-b2e80785bbcf)
 
